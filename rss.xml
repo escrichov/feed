@@ -1,14 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-    <channel>
-        <title>Generated RSS Feed</title>
-        <description>RSS feed generated using CrazyOnlineTools</description>
-        <link>https://www.crazyonlinetools.com/rss-feed-generator</link>
-        
-        <item>
-            <pubDate>Fri, 14 Mar 2025</pubDate>
-            <title>Kloshletter</title>
-            <description>Buenos días, Carlos
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>CE News</title><link>https://escrichov.github.io/feed/rss.xml</link><description>Carlos News</description><item><title>Post</title><link>https://escrichov.github.io/feed/rss.xml</link><description>
+Buenos días, Carlos
 Así amanece este viernes 14 de marzo
 
 Pss, Pss… Llorar de tristeza es la respuesta física a una emoción intensa, pero va más allá de derramar lágrimas porque desata un mecanismo cerebral que persigue la calma y tiene grandes beneficios.
@@ -85,9 +77,5 @@ CUERPO DE VIERNES
 
 Y si te va madrugar, esta mañana la Luna se tiñe de rojo por un eclipse total que podrá seguirse a simple vista en toda España (donde lo permitan las nubes, claro).
 Esto es todo. Feliz fin de semana.
-Te escribo el lunes.</description>
-            <link>1</link>
-        </item>
-        
-    </channel>
-</rss>
+Te escribo el lunes.
+</description><pubDate>Fri, 14 Mar 2025 18:47:36 +0000</pubDate></item></channel></rss>
